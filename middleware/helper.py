@@ -15,4 +15,5 @@ with open('./dataset/kadirs.csv', newline='') as read_file:
 
 question_list = question_set
 training_list = training_set
+greeting_list = ['hi', 'hello', 'good day', 'good morning', 'how are you', 'how do you do']
 
